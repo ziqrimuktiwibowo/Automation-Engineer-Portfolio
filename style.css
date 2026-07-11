@@ -122,3 +122,69 @@ button{
     color:#cccccc;
 
 }
+
+.skills{
+
+    padding:80px;
+    text-align:center;
+
+}
+
+.skills h2{
+
+    font-size:40px;
+    color:#00ffff;
+    margin-bottom:40px;
+
+}
+
+
+
+.skill-container{
+
+    display:flex;
+    justify-content:center;
+    gap:25px;
+    flex-wrap:wrap;
+
+}
+
+
+
+.skill-card{
+
+    width:250px;
+    padding:30px;
+    background:#161b22;
+    border-radius:10px;
+    border:1px solid #333;
+
+}
+
+
+
+.skill-card h3{
+
+    color:#00ffff;
+    margin-bottom:20px;
+
+}
+
+
+
+.skill-card p{
+
+    color:#cccccc;
+    line-height:1.6;
+
+}
+
+.profile-photo img{
+
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    object-fit:cover;
+    border:3px solid #00ffff;
+
+}
