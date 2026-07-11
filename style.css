@@ -95,3 +95,30 @@ button{
     font-size:18px;
 
 }
+
+.about{
+
+    padding:80px;
+    text-align:center;
+
+}
+
+
+.about h2{
+
+    font-size:40px;
+    color:#00ffff;
+    margin-bottom:20px;
+
+}
+
+
+.about p{
+
+    max-width:800px;
+    margin:auto;
+    font-size:18px;
+    line-height:1.8;
+    color:#cccccc;
+
+}
